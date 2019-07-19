@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Awesome",
+        "md5": "xb1f2175e8da74d9a8bbd06265faa1734.png",
+        "type": "sprite",
+        "json": {
+            "objName": "Awesome",
+            "costumes": [
+                {
+                    "costumeName": "awesome",
+                    "baseLayerID": -1,
+                    "baseLayerMD5": "xb1f2175e8da74d9a8bbd06265faa1734.png",
+                    "bitmapResolution": 2,
+                    "rotationCenterX": 234,
+                    "rotationCenterY": 193
+                }
+            ],
+            "currentCostumeIndex": 0,
+            "scratchX": 0,
+            "scratchY": 0,
+            "scale": 1,
+            "direction": 90,
+            "rotationStyle": "normal",
+            "isDraggable": false,
+            "visible": true,
+            "spriteInfo": {}
+        }
+    },
+    {
+        "name": "Butterfly",
+        "md5": "x9401a29919d2447ed6fb93ed4adb2dea.png",
+        "type": "sprite",
+        "json": {
+            "objName": "Butterfly",
+            "costumes": [
+                {
+                    "costumeName": "butterfly",
+                    "baseLayerID": -1,
+                    "baseLayerMD5": "x9401a29919d2447ed6fb93ed4adb2dea.png",
+                    "bitmapResolution": 2,
+                    "rotationCenterX": 256,
+                    "rotationCenterY": 256
+                }
+            ],
+            "currentCostumeIndex": 0,
+            "scratchX": 0,
+            "scratchY": 0,
+            "scale": 1,
+            "direction": 90,
+            "rotationStyle": "normal",
+            "isDraggable": false,
+            "visible": true,
+            "spriteInfo": {}
+        }
+    },
+    {
+        "name": "Yin-yang",
+        "md5": "x769840605c7a2070ea7c9bf0f0e9c4b6.png",
+        "type": "sprite",
+        "json": {
+            "objName": "Yin-yang",
+            "costumes": [
+                {
+                    "costumeName": "yin-yang",
+                    "baseLayerID": -1,
+                    "baseLayerMD5": "x769840605c7a2070ea7c9bf0f0e9c4b6.png",
+                    "bitmapResolution": 2,
+                    "rotationCenterX": 384,
+                    "rotationCenterY": 384
+                }
+            ],
+            "currentCostumeIndex": 0,
+            "scratchX": 0,
+            "scratchY": 0,
+            "scale": 1,
+            "direction": 90,
+            "rotationStyle": "normal",
+            "isDraggable": false,
+            "visible": true,
+            "spriteInfo": {}
+        }
+    },
+    {
+        "name": "Flower",
+        "md5": "x5ef3bbaf3eabefdfd31257c7bc267790.png",
+        "type": "sprite",
+        "json": {
+            "objName": "Flower",
+            "costumes": [
+                {
+                    "costumeName": "flower",
+                    "baseLayerID": -1,
+                    "baseLayerMD5": "x5ef3bbaf3eabefdfd31257c7bc267790.png",
+                    "bitmapResolution": 2,
+                    "rotationCenterX": 213,
+                    "rotationCenterY": 298
+                }
+            ],
+            "currentCostumeIndex": 0,
+            "scratchX": 0,
+            "scratchY": 0,
+            "scale": 1,
+            "direction": 90,
+            "rotationStyle": "normal",
+            "isDraggable": false,
+            "visible": true,
+            "spriteInfo": {}
+        }
+    },
+    {
+        "name": "Rainbow",
+        "md5": "x05a9d5f5aa127e17cfb3e1be703cb878.jpg",
+        "type": "sprite",
+        "json": {
+            "objName": "Rainbow",
+            "costumes": [
+                {
+                    "costumeName": "rainbow",
+                    "baseLayerID": -1,
+                    "baseLayerMD5": "x05a9d5f5aa127e17cfb3e1be703cb878.jpg",
+                    "bitmapResolution": 2,
+                    "rotationCenterX": 2657,
+                    "rotationCenterY": 2657
+                }
+            ],
+            "currentCostumeIndex": 0,
+            "scratchX": 0,
+            "scratchY": 0,
+            "scale": 1,
+            "direction": 90,
+            "rotationStyle": "normal",
+            "isDraggable": false,
+            "visible": true,
+            "spriteInfo": {}
+        }
+    }
+]
